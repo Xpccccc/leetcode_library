@@ -15,10 +15,11 @@ int *twoSum(int *nums, int numsSize, int target, int *returnSize) {
             if (sum == target) {
                 result[0] = i;
                 result[1] = j;//相等后的数值下标
-                returnSize = 2;
+                *returnSize = 2;
                 return result;
             }
         }
     }
+    *returnSize = 0;
     return NULL;
 }
