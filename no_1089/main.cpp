@@ -1,6 +1,6 @@
 
- // https://leetcode.cn/problems/duplicate-zeros/
- // 1089. 复写零
+// https://leetcode.cn/problems/duplicate-zeros/
+// 1089. 复写零
 class Solution {
 public:
     void duplicateZeros(vector<int>& arr) {
