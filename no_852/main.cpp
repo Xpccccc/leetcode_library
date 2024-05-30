@@ -1,4 +1,4 @@
-
+//
 // https://leetcode.cn/problems/peak-index-in-a-mountain-array/
 // 852. 山脉数组的峰顶索引
 
