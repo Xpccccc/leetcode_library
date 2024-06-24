@@ -14,7 +14,6 @@ public:
                 if (i >= nums[j]) // 确定了最后一个元素为nums[j]，那么只需要看前面有多少种方法组成i - nums[j]，且一个nums[j]就是一种情况
                     dp[i] += dp[i - nums[j]];
             }
-
         }
         return dp[target];
     }
