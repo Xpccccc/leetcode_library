@@ -1,6 +1,6 @@
 
 // https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/
-// 188. 买卖股票的最佳时机 IV    
+// 188. 买卖股票的最佳时机 IV
 
 class Solution {
 public:

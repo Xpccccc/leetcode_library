@@ -1,4 +1,4 @@
-// 
+//
 // https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/
 // 1658. 将 x 减到 0 的最小操作数
 
